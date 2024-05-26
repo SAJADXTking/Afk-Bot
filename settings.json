@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "BIG_D",
+    "username": "H2N.DEV",
     "password": "",
     "type": ""
   },
@@ -25,21 +25,8 @@
     },
 
     "anti-afk": {
-      "enabled": true,
-      "sneak": false,
-      "jump": false,
-      "rotate": true,
-
-      "hit": {
-        "enabled": true,
-        "delay": 1000,
-        "attack-mobs": false
-      },
-
-      "circle-walk": {
-        "enabled": false,
-        "radius": 2
-      }
+      "enabled": false,
+      "sneak": false
     },
 
     "chat-messages": {
@@ -48,15 +35,15 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "shlang ",
+        "storaidom ",
+        "atroo ",
+        "sheeet"
       ]
     },
 
-    "chat-log": true,
-    "auto-reconnect": false,
-    "auto-reconnect-delay": 5000
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
   }
 }
