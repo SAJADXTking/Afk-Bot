@@ -21,17 +21,17 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "12345678"
+      "password": ""
     },
 
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": false,
       "jump": false,
-      "rotate": false,
+      "rotate": true,
 
       "hit": {
-        "enabled": false,
+        "enabled": true,
         "delay": 1000,
         "attack-mobs": false
       },
