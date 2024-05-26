@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "BIG_D",
+    "password": "",
+    "type": ""
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "ATRO_MAXIMUS.aternos.me",
+    "port": 27377,
+    "version": "1.18.2"
   },
 
   "position": {
